@@ -1,17 +1,5 @@
 <?php
-/*
- * @ PHP 5.6
- * @ Decoder version : 1.0.0.1
- * @ Release on : 24.03.2018
- * @ Website    : http://EasyToYou.eu
- */
 
-/*
- * @ PHP 5.6
- * @ Decoder version : 1.0.0.1
- * @ Release on : 24.03.2018
- * @ Website    : http://EasyToYou.eu
- */
 $config["base_url"] = "";
 $config["index_page"] = "";
 $config["uri_protocol"] = "REQUEST_URI";
@@ -100,7 +88,7 @@ $config["property_to_config_key"] = array("enable_markdown_htmlreport" => "enabl
 $config["predefined_filters"] = array(array("name" => "Date Range", "tpl" => "filter/filter.date_range.tpl", "type" => 3, "isdefault" => 1));
 $config["dbface_master"] = "dashboard.dbface.com";
 $config["dbface_master_access_key"] = "jsding1984@A";
-$config["email_settings"] = array("useragent" => "dbface", "protocol" => "smtp", "smtp_host" => "email-smtp.us-east-1.amazonaws.com", "smtp_user" => "AKIAIRCU4DXBW7NX2MPQ", "smtp_pass" => "AtqoetzHIdTFS/OGB4Tsz3B7MEvIk44d8HjOiSsWG2nO", "smtp_port" => "465", "smtp_crypto" => "tls", "crlf" => "\\r\\n", "newline" => "\r\n", "mailtype" => "html", "smtp_crypto" => "ssl", "validate" => false, "charset" => "utf-8", "wordwrap" => true);
+$config["email_settings"] = array("useragent" => "dbface", "protocol" => "smtp", "smtp_host" => "email-smtp.us-east-1.amazonaws.com", "smtp_user" => (getenv("SES_SMTP_USER") ?: ""), "smtp_pass" => (getenv("SES_SMTP_PASS") ?: ""), "smtp_port" => "465", "smtp_crypto" => "tls", "crlf" => "\\r\\n", "newline" => "\r\n", "mailtype" => "html", "smtp_crypto" => "ssl", "validate" => false, "charset" => "utf-8", "wordwrap" => true);
 $config["version"] = "8.3";
 $config["buildid"] = "20190211";
 $config["docker_remote_host"] = "tcp://remote-api.dbface.com:4243";

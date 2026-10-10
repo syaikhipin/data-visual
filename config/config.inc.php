@@ -1,17 +1,5 @@
 <?php
-/*
- * @ PHP 5.6
- * @ Decoder version : 1.0.0.1
- * @ Release on : 24.03.2018
- * @ Website    : http://EasyToYou.eu
- */
 
-/*
- * @ PHP 5.6
- * @ Decoder version : 1.0.0.1
- * @ Release on : 24.03.2018
- * @ Website    : http://EasyToYou.eu
- */
 // Auto detect the Base URL
 $config['dbface_app_url_base'] = FALSE;
 // use the default timezone
@@ -46,7 +34,7 @@ $config['default_data_category_name'] = 'Data';
 // you can also overwrite this settings in System Settings (dropped)
 $config['menu_style'] = 'normal';
 // Use your Google Appkey to generate Google Map
-$config['google.appkey'] = 'AIzaSyBImzyugJzPWt1cQC0bWbUznaVUIc805eU';
+$config['google.appkey'] = (getenv('GOOGLE_MAPS_APP_KEY') ?: '');
 // the max rows for picked sample data
 $config['max_sample_rows'] = 100;
 // Enable error_report, the error does not include any app data
