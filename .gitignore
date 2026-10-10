@@ -1,0 +1,4 @@
+core
+.oracle/*.so
+.oracle/*.tar.gz
+.DS_Store

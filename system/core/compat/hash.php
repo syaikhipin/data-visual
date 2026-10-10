@@ -124,11 +124,11 @@ function hash_pbkdf2($algo, $password, $salt, $iterations, $length = 0, $raw_out
     }
 
     $hash_length = (defined("MB_OVERLOAD_STRING") ? mb_strlen(hash($algo, NULL, true), "8bit") : strlen(hash($algo, NULL, true)));
-    empty($length) and static $block_sizes = NULL;
-    empty($block_sizes) and if( isset($block_sizes[$algo]) && isset($password[$block_sizes[$algo]]) ) 
-{
-    $password = hash($algo, $password, true);
-}
+    static $block_sizes = array("sha224" => 64, "sha256" => 64, "sha384" => 128, "sha512" => 128);
+    if( isset($block_sizes[$algo]) && isset($password[$block_sizes[$algo]]) )
+    {
+        $password = hash($algo, $password, true);
+    }
 
     $hash = "";
     $bc = (int) ceil($length / $hash_length);

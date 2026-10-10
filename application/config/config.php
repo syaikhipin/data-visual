@@ -1,6 +1,6 @@
 <?php
 
-$config["base_url"] = "";
+$config["base_url"] = "http://localhost:8092/";
 $config["index_page"] = "";
 $config["uri_protocol"] = "REQUEST_URI";
 $config["url_suffix"] = "";

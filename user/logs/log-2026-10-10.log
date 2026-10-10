@@ -1,0 +1,132 @@
+[2026-10-10 20:10:48] app.DEBUG: UTF-8 Support Enabled [] {"url":"/","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:10:48] app.DEBUG: No URI present. Default controller set. [] {"url":"/","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:10:48] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:10:53] app.DEBUG: UTF-8 Support Enabled [] {"url":"/","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:10:53] app.DEBUG: No URI present. Default controller set. [] {"url":"/","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:10:53] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:19] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:19] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:19] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:19] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:19] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:19] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:19] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:19] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:19] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:19] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:19] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:19] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:19] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:19] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:19] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:19] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:20] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:21] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:22] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:22] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:22] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:22] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:22] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:22] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:22] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:22] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:22] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:22] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:22] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:22] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:41] app.DEBUG: UTF-8 Support Enabled [] {"url":"/login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:41] app.DEBUG: No URI present. Default controller set. [] {"url":"/login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:41] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:41] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:41] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:41] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:41] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:41] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:41] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:41] app.ERROR: Severity: 2 --> Cannot modify header information - headers already sent by (output started at /var/www/html/application/helpers/dbface_helper.php:403) /var/www/html/system/core/Common.php 578 [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:41] app.ERROR:  #0  MY_Exceptions->log_exception() called at [/var/www/html/system/core/Common.php:626] #1  _error_handler() #2  header() called at [/var/www/html/system/core/Common.php:578] #3  set_status_header() called at [/var/www/html/system/core/Common.php:615] #4  _error_handler() called at [/var/www/html/system/core/Common.php:697]  [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:41] app.ERROR: Severity: 1 --> Call to undefined function gi() /var/www/html/application/helpers/dbface_helper.php 403 [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:11:41] app.ERROR:  #0  MY_Exceptions->log_exception() called at [/var/www/html/system/core/Common.php:626] #1  _error_handler() called at [/var/www/html/system/core/Common.php:697] #2  _shutdown_handler()  [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:13:05] app.DEBUG: UTF-8 Support Enabled [] {"url":"/login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:13:05] app.DEBUG: No URI present. Default controller set. [] {"url":"/login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:13:05] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:13:05] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:13:05] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:13:05] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:13:05] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=Login","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:13:06] app.DEBUG: UTF-8 Support Enabled [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:13:06] app.DEBUG: Global POST, GET and COOKIE data sanitized [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:13:06] app.ERROR: Severity: 1 --> Cannot break/continue 1 level /var/www/html/application/libraries/Smarty/libs/sysplugins/smarty_internal_templateparser.php 297 [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
+[2026-10-10 20:13:06] app.ERROR:  #0  MY_Exceptions->log_exception() called at [/var/www/html/system/core/Common.php:626] #1  _error_handler() called at [/var/www/html/system/core/Common.php:697] #2  _shutdown_handler()  [] {"url":"/?module=CoreHome","ip":"172.17.0.1","http_method":"GET","server":"0.0.0.0","referrer":null}
