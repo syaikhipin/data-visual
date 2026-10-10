@@ -1,17 +1,5 @@
 <?php
-/*
- * @ PHP 5.6
- * @ Decoder version : 1.0.0.1
- * @ Release on : 24.03.2018
- * @ Website    : http://EasyToYou.eu
- */
 
-/*
- * @ PHP 5.6
- * @ Decoder version : 1.0.0.1
- * @ Release on : 24.03.2018
- * @ Website    : http://EasyToYou.eu
- */
 /**
  * This class does contain all necessary methods for the HTML cache on file system
  * Implements the file system as resource for the HTML cache Version ussing nocache inserts.

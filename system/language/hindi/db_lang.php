@@ -1,10 +1,4 @@
 <?php
-/*
- * @ PHP 5.6
- * @ Decoder version : 1.0.0.1
- * @ Release on : 24.03.2018
- * @ Website    : http://EasyToYou.eu
- */
 
 defined("BASEPATH") or exit("Directe toegang tot scripts is niet toegestaan");
 $lang["db_invalid_connection_str"] = "मैं कनेक्शन डेटा का उपयोग कर डेटाबेस के लिए सेटिंग्स का निर्धारण करने में असमर्थ हूँ।";

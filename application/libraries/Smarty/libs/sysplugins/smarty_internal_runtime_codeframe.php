@@ -1,17 +1,5 @@
 <?php
-/*
- * @ PHP 5.6
- * @ Decoder version : 1.0.0.1
- * @ Release on : 24.03.2018
- * @ Website    : http://EasyToYou.eu
- */
 
-/*
- * @ PHP 5.6
- * @ Decoder version : 1.0.0.1
- * @ Release on : 24.03.2018
- * @ Website    : http://EasyToYou.eu
- */
 /**
  * Class Smarty_Internal_Extension_CodeFrame
  * Create code frame for compiled and cached templates

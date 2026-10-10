@@ -1,17 +1,5 @@
 <?php
-/*
- * @ PHP 5.6
- * @ Decoder version : 1.0.0.1
- * @ Release on : 24.03.2018
- * @ Website    : http://EasyToYou.eu
- */
 
-/*
- * @ PHP 5.6
- * @ Decoder version : 1.0.0.1
- * @ Release on : 24.03.2018
- * @ Website    : http://EasyToYou.eu
- */
 if (!isset($_SERVER["DOCUMENT_ROOT"]) || empty($_SERVER["DOCUMENT_ROOT"])) {
     if (isset($_SERVER["SCRIPT_FILENAME"])) {
         $_SERVER["DOCUMENT_ROOT"] = str_replace("\\", "/", substr($_SERVER["SCRIPT_FILENAME"], 0, 0 - strlen($_SERVER["PHP_SELF"])));

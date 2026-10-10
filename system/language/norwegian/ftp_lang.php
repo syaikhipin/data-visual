@@ -1,10 +1,4 @@
 <?php
-/*
- * @ PHP 5.6
- * @ Decoder version : 1.0.0.1
- * @ Release on : 24.03.2018
- * @ Website    : http://EasyToYou.eu
- */
 
 defined("BASEPATH") or exit("No direct script access allowed");
 $lang["ftp_no_connection"] = "Fant ingen gyldig tilkoblings-ID. Vennligst sørg for å være tilkoblet før du utfører filoperasjoner.";

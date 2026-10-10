@@ -1,10 +1,4 @@
 <?php
-/*
- * @ PHP 5.6
- * @ Decoder version : 1.0.0.1
- * @ Release on : 24.03.2018
- * @ Website    : http://EasyToYou.eu
- */
 
 defined("BASEPATH") or exit("No direct script access allowed");
 $lang["ftp_no_connection"] = "માન્ય જોડાણ આઈડી સ્થિત કરતા નિષ્ફળ. કૃપા કરીને કોઈપણ ફાઈલ નુ કામ કરવા પહેલાં ખાતરી કરો કે તમે જોડાયેલ છો.";

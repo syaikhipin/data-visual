@@ -1,17 +1,5 @@
 <?php
-/*
- * @ PHP 5.6
- * @ Decoder version : 1.0.0.1
- * @ Release on : 24.03.2018
- * @ Website    : http://EasyToYou.eu
- */
 
-/*
- * @ PHP 5.6
- * @ Decoder version : 1.0.0.1
- * @ Release on : 24.03.2018
- * @ Website    : http://EasyToYou.eu
- */
 define("K_BLANK_IMAGE", "_blank.png");
 define("PDF_PAGE_FORMAT", "A4");
 define("PDF_PAGE_ORIENTATION", "P");

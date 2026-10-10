@@ -1,10 +1,4 @@
 <?php
-/*
- * @ PHP 5.6
- * @ Decoder version : 1.0.0.1
- * @ Release on : 24.03.2018
- * @ Website    : http://EasyToYou.eu
- */
 
 defined("BASEPATH") or exit("No direct script access allowed");
 $lang["ftp_no_connection"] = "ไม่สามารถค้นหา connection ID ที่ถูกต้อง,โปรดตรวจสอบให้แน่ใจว่าคุณได้ทำการเชื่อต่อเรียบร้อยแล้วก่อนใช้งาน";

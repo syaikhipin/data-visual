@@ -1,10 +1,4 @@
 <?php
-/*
- * @ PHP 5.6
- * @ Decoder version : 1.0.0.1
- * @ Release on : 24.03.2018
- * @ Website    : http://EasyToYou.eu
- */
 
 defined("BASEPATH") or exit("No direct script access allowed");
 $lang["ftp_no_connection"] = "شناسه ارتباطی معتبری یافت نشد. لطفاً پیش از انجام هر فعالیت مربوط به فایل، از وجود اتصال مطمئن شوید.";

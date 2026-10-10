@@ -1,10 +1,4 @@
 <?php
-/*
- * @ PHP 5.6
- * @ Decoder version : 1.0.0.1
- * @ Release on : 24.03.2018
- * @ Website    : http://EasyToYou.eu
- */
 
 defined("BASEPATH") or exit("No direct script access allowed");
 $lang["imglib_source_image_required"] = "நீங்கள் உங்களது விருப்பத்தேர்வுகளில் ஒரு மூலப் படத்தை குறிப்பிட வேண்டும். ";

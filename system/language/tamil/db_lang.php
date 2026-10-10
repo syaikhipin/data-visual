@@ -1,10 +1,4 @@
 <?php
-/*
- * @ PHP 5.6
- * @ Decoder version : 1.0.0.1
- * @ Release on : 24.03.2018
- * @ Website    : http://EasyToYou.eu
- */
 
 defined("BASEPATH") or exit("No direct script access allowed");
 $lang["db_invalid_connection_str"] = "நீங்கள் சமர்ப்பித்த இணைப்பு சரம் அடிப்படையில் தரவுத்தள அமைப்புகளை தீர்மானிக்க முடியவில்லை";

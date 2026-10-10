@@ -1,17 +1,5 @@
 <?php
-/*
- * @ PHP 5.6
- * @ Decoder version : 1.0.0.1
- * @ Release on : 24.03.2018
- * @ Website    : http://EasyToYou.eu
- */
 
-/*
- * @ PHP 5.6
- * @ Decoder version : 1.0.0.1
- * @ Release on : 24.03.2018
- * @ Website    : http://EasyToYou.eu
- */
 defined("SERVICES_JSON_SLICE") or define("SERVICES_JSON_SLICE", 1);
 defined("SERVICES_JSON_IN_STR") or define("SERVICES_JSON_IN_STR", 2);
 defined("SERVICES_JSON_IN_ARR") or define("SERVICES_JSON_IN_ARR", 3);

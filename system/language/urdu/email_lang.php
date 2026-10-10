@@ -1,10 +1,4 @@
 <?php
-/*
- * @ PHP 5.6
- * @ Decoder version : 1.0.0.1
- * @ Release on : 24.03.2018
- * @ Website    : http://EasyToYou.eu
- */
 
 defined("BASEPATH") or exit("No direct script access allowed");
 $lang["email_must_be_array"] = ".ای میل کی تصدیق کا طریقہ کار ایک ایرے میں مھیا کرنا زروری ہے";

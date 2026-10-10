@@ -1,10 +1,4 @@
 <?php
-/*
- * @ PHP 5.6
- * @ Decoder version : 1.0.0.1
- * @ Release on : 24.03.2018
- * @ Website    : http://EasyToYou.eu
- */
 
 defined("BASEPATH") or exit("Nije dozvoljen direktan pristup");
 $lang["db_invalid_connection_str"] = "Ne mogu se odrediti podešavanja baze na osnovu stringova za konekciju koje ste vi uneli.";
